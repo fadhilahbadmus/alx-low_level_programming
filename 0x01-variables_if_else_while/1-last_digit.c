@@ -27,7 +27,7 @@ int main(void)
 	}
 	else
 	{
-		printf("last difit of %d is %d anx is 0\n", n, n % 10);
+		printf("last digit of %d is %d anx is 0\n", n, n % 10);
 	}
 
 	return (0);
