@@ -12,14 +12,8 @@ int main(void)
 {
 	int n;
 
-	n = 0;
-	n < 0;
-	n > 0;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-
-	printf("Enter any Number %d\n", n);
 	if (n > 0)
 	{
 		printf("%d is positive\n", n);
